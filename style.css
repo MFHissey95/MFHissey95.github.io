@@ -44,3 +44,6 @@
             /* More info here: http://www.w3schools.com/cssref/pr_list-style-position.asp */
             list-style-position: inside;
           }
+        button {
+            text-align:center;
+            }
