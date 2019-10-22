@@ -10,7 +10,7 @@
             /* Underline the text. */
             text-decoration: underline;
             /* The background of the heading element will now be black. */
-            background-color: black;
+            background-color: blue;
             }
         h2 {
              /* Put a 15-pixel margin at the top of all h2 headings. */
@@ -18,18 +18,20 @@
             margin-bottom: 15px;
             font-size: 40px;
             text-align: center;
+            color: purple;
             }
         /* h3 heading tags */
         h3 {
             margin-top: 15px;
             font-size: 20px;
             text-align: center;
+            color: purple;
             }
         h4 {
             margin-top: 15px;
             font-size: 15px;
             text-align: center;
-            color: red;
+            color: purple;
             }
         ul {
             text-align: center;
