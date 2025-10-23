@@ -471,6 +471,13 @@ nav.scrolled {
     opacity: 0.8;
 }
 
+.mike-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 12px;
+}
+
 .logo-bar {
     padding: 60px 0;
     background-color: var(--bg-light);
